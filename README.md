@@ -25,10 +25,11 @@ to excessive or cumbersome, I have provided a list of relevant files to look at 
 ##### Running the code
 ```
 # Clone the repository
-git clone [repository url]
+git clone https://github.com/nbj/solution.git
 
 # Install dependancies
-cd [project name]
+cd solution
+cd second_solution
 composer install
 
 # Spin up a local webserver
